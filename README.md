@@ -15,11 +15,14 @@ Hello, I'm Tanir Sahoo, a passionate Software Developer with a strong foundation
     <li>Python</li>
     <li>HTML</li>
     <li>MySQL</li>
+    <li>Spring Boot</li>
   </ul>
   <ul style="float: right;">
     <li>C</li>
     <li>Oracle SQL</li>
     <li>CSS</li>
+    <li>JavaScript</li>
+    <li>PHP</li>
   </ul>
 </div>
 
@@ -51,22 +54,22 @@ Feel free to explore my repositories to get a deeper insight into my work and co
 
 ## 📈 GitHub Stats
 
-![Tanir's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Tanir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanirsahoo&show_icons=true&theme=radical)
 
 ## 🌟 Top Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanirsahoo&repo=DSA_using_Java&theme=radical)](https://github.com/tanirsahoo/DSA_Using_Java)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanirsahoo&repo=WebDev_Project&theme=radical)](https://github.com/tanirsahoo/WebDev_Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanirsahoo&repo=Smart_India_Hackathon_Files&theme=radical)](https://github.com/tanirsahoo/Smart_India_Hackathon_Files)
 
 ## 📫 Get in Touch
 
-- **Email:** tanir.sahoo@example.com
-- **LinkedIn:** [Tanir Sahoo](https://www.linkedin.com/in/your-linkedin-profile/)
-- **Twitter:** [@TanirSahoo](https://twitter.com/your-twitter-profile)
+- **Email:** tanir.sahoo.2023@gmail.com
+- **LinkedIn:** [Tanir Sahoo](https://www.linkedin.com/in/tansahoo/)
+- **Twitter:** [@TanirSahoo](https://x.com/tanirsahoo)
 
 ## 🌐 Follow Me
 
-- **GitHub:** [Tanir Sahoo](https://github.com/your-github-username)
+- **GitHub:** [Tanir Sahoo](https://github.com/tanirsahoo)
 
 ![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
