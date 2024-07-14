@@ -55,9 +55,9 @@ Feel free to explore my repositories to get a deeper insight into my work and co
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=DSA_using_Java&theme=radical)](https://github.com/tanirsahoo/DSA_Using_Java)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanirsahoo&repo=DSA_using_Java&theme=radical)](https://github.com/tanirsahoo/DSA_Using_Java)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=WebDev_Project&theme=radical)](https://github.com/tanirsahoo/WebDev_Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanirsahoo&repo=WebDev_Project&theme=radical)](https://github.com/tanirsahoo/WebDev_Project)
 
 ## 📫 Get in Touch
 
