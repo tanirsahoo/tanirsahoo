@@ -15,10 +15,9 @@ I'm Tanir Sahoo, a passionate Software Developer with a strong foundation in var
     <li>Python</li>
     <li>HTML</li>
     <li>MySQL</li>
-    <li>Spring Boot</li>
+    <li>C</li>
   </ul>
   <ul style="float: right;">
-    <li>C</li>
     <li>Oracle SQL</li>
     <li>CSS</li>
     <li>JavaScript</li>
