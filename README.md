@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Hello, I'm Tanir Sahoo, a passionate Software Developer with a strong foundation in various programming languages and frameworks. My journey in the tech world has been fueled by curiosity, dedication, and a love for solving complex problems. I thrive in fast-paced environments and am always eager to learn new technologies and improve my skill set.
+I'm Tanir Sahoo, a passionate Software Developer with a strong foundation in various programming languages and frameworks. My journey in the tech world has been fueled by curiosity, dedication, and a love for solving complex problems. I thrive in fast-paced environments and am always eager to learn new technologies and improve my skill set.
 
 ## 🛠️ Skills & Technologies
 
@@ -26,18 +26,13 @@ Hello, I'm Tanir Sahoo, a passionate Software Developer with a strong foundation
   </ul>
 </div>
 
-### Frameworks & Tools
-- **Spring Boot**
-- **JavaScript**
-- **PHP**
-
 ### Other Proficiencies
 - Data Structures and Algorithms (DSA)
 - Web Development
 
 ## 🎖️ Achievements & Participation
 
-I have actively participated in multiple hackathons, showcasing my problem-solving abilities and teamwork skills. Some notable hackathons include:
+I have actively participated in multiple hackathons, showcasing my problem-solving and teamwork skills. Some notable hackathons include:
 - **Build For Bharat**
 - **Smart India Hackathon**
 - **Google Solution Challenge**
@@ -50,7 +45,7 @@ I have worked on numerous projects and repositories focused on:
 - **Full-Stack Projects**
 - **Hackathon Projects**
 
-Feel free to explore my repositories to get a deeper insight into my work and contributions.
+Feel free to explore my repositories for deeper insight into my work and contributions.
 
 ## 📈 GitHub Stats
 
